@@ -8,6 +8,7 @@ to compute the gradients efficiently in any
 the Back-propagation through time
 which is the same algorithm applied for recurrent
 neural networks.
+
 Recurrent Neural Networks: characterbased
 language model is a difficult task, in
 general because the network has to remember
